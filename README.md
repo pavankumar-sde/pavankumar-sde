@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavankumar 
 - 👀 I’m interested in Developing Applications, Writing blogs . 
-- 🌱 I’m currently learning Cloud Native development 
+- 🌱 I’m currently working as a senior software engineer
 - 💞️ I’m looking to collaborate on Github 
 - 📫 How to reach me ? Find out . 
 
