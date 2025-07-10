@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pavankumar 
 - 👀 I’m interested in Developing Applications, Writing blogs . 
 - 🌱 I’m currently working as a senior software engineer
-- 💞️ I’m looking to collaborate on Github 
-- 📫 How to reach me ? Find out . 
+- 💞️ I’m looking to collaborate on Github  
 
 <!---
 pavankumar-sde/pavankumar-sde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
